@@ -1,0 +1,10 @@
+img {
+  max-width: 800px;
+}
+
+.box {
+  background: lightgrey;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+}
